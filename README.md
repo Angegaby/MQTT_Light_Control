@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MQTT Light Control 💡  
 A web-based application that allows users to turn a light ON/OFF over MQTT.  
 It also simulates an IoT device (ESP8266) using Python, which listens for MQTT messages and prints the light status.
@@ -48,3 +49,6 @@ It also simulates an IoT device (ESP8266) using Python, which listens for MQTT m
 🚀 Developed by NDUWINGOMA Marie Ange Gabriella  
 
 
+=======
+# MQTT_Light_Control
+>>>>>>> 84dbf0a09f056d9fd51f7beb0d018be30f4659c1
